@@ -1,0 +1,8 @@
+chicken_pot_pie = 0.0
+chicken_rice = 3.1215697
+eggs = 4.7658823
+snickers = 0.0
+waffles = 3.9818551
+
+daily cost = 11.7876485088
+weekly cost = 82.5135395616
